@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="e0ab6545-ed2e-49b2-8139-3ea8672dae39" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/source/solution/divide_and_conquer_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/test/test_io_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/solution/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/solution/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/solution/io_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/solution/io_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/solution/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/solution/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/solution/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/solution/point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/solution/simple_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/solution/simple_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/test/test_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/test/test_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/test/test_io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/resources/mysample_input_3_3.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/src" beforeDir="true" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_calc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/test/test_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="944">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="divide_and_conquer_calc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/solution/divide_and_conquer_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="100" selection-start-line="8" selection-start-column="100" selection-end-line="8" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test_io_manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/test/test_io_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="io_manager.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/solution/io_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple_calc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/solution/simple_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/solution/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="point.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/solution/point.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/test/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/solution/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coordinates</find>
+      <find>points</find>
+      <find>pair_idx</find>
+      <find>print</find>
+      <find>element</find>
+      <find>float</find>
+      <find>get_element</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Bence\Desktop\mySVN\myProgrammes\ClosestPairProblem\venv\src\code</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/point.pyű.py" />
+        <option value="$PROJECT_DIR$/point.py" />
+        <option value="$PROJECT_DIR$/venv/src/point.py" />
+        <option value="$PROJECT_DIR$/venv/src/solution/divide_and_conquer_calc.py" />
+        <option value="$PROJECT_DIR$/venv/src/test/test_calculators.py" />
+        <option value="$PROJECT_DIR$/venv/src/solution/point.py" />
+        <option value="$PROJECT_DIR$/venv/src/solution/io_manager.py" />
+        <option value="$PROJECT_DIR$/venv/src/solution/simple_calc.py" />
+        <option value="$PROJECT_DIR$/venv/src/test/test_io.py" />
+        <option value="$PROJECT_DIR$/venv/src/solution/main.py" />
+        <option value="$PROJECT_DIR$/venv/src/test/__init__.py" />
+        <option value="$PROJECT_DIR$/venv/src/code/myclass.py" />
+        <option value="$PROJECT_DIR$/venv/src/mypackage/myclass.py" />
+        <option value="$PROJECT_DIR$/venv/src/test/test_calc.py" />
+        <option value="$PROJECT_DIR$/top/myc.py" />
+        <option value="$PROJECT_DIR$/test/mytest.py" />
+        <option value="$PROJECT_DIR$/source/test/test_f.py" />
+        <option value="$PROJECT_DIR$/source/test/test_io.py" />
+        <option value="$PROJECT_DIR$/source/test/test_iomodified_name.py" />
+        <option value="$PROJECT_DIR$/source/solution/point.py" />
+        <option value="$PROJECT_DIR$/source/test/__init__.py" />
+        <option value="$PROJECT_DIR$/source/solution/__init__.py" />
+        <option value="$PROJECT_DIR$/source/test/test_calc.py" />
+        <option value="$PROJECT_DIR$/source/__init__.py" />
+        <option value="$PROJECT_DIR$/source/test/test_io_manager.py" />
+        <option value="$PROJECT_DIR$/source/solution/divide_and_conquer_calc.py" />
+        <option value="$PROJECT_DIR$/source/solution/main.py" />
+        <option value="$PROJECT_DIR$/source/solution/simple_calc.py" />
+        <option value="$PROJECT_DIR$/source/solution/io_manager.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClosestPairProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClosestPairProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClosestPairProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClosestPairProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClosestPairProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClosestPairProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClosestPairProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClosestPairProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClosestPairProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClosestPairProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bence\Desktop\mySVN\myProgrammes\ClosestPairProblem\source\solution" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ClosestPairProblem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/solution" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/solution/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_io_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ClosestPairProblem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/test/test_io_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in test_calc.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ClosestPairProblem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/source/test/test_calc.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_io_manager.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ClosestPairProblem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/source/test/test_io_manager.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_iomodified_name.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ClosestPairProblem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/source/test/test_iomodified_name.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in test_iomodified_name.py" />
+      <item itemvalue="Python tests.Unittests in test_io_manager.py" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Unittests in test_calc.py" />
+      <item itemvalue="Python.test_io_manager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests in test_io_manager.py" />
+        <item itemvalue="Python tests.Unittests in test_calc.py" />
+        <item itemvalue="Python.test_io_manager" />
+        <item itemvalue="Python tests.Unittests in test_iomodified_name.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Bence\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Bence\Desktop\mySVN\myProgrammes\ClosestPairProblem" />
+          <option name="myCopyRoot" value="C:\Users\Bence\Desktop\mySVN\myProgrammes\ClosestPairProblem" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Bence\Desktop\mySVN\myProgrammes\ClosestPairProblem" />
+          <option name="myCopyRoot" value="C:\Users\Bence\Desktop\mySVN\myProgrammes\ClosestPairProblem" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0ab6545-ed2e-49b2-8139-3ea8672dae39" name="Default" comment="" />
+      <created>1532081803884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532081803884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 19m 12s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 19m 49s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 20m 33s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 20m 37s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 22m 26s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 22m 34s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 22m 46s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_calc_py - 2018.07.22 at 21h 28m 57s.xml">
+      <configuration name="Unittests in test_calc.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 21h 29m 00s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_io_manager_py - 2018.07.22 at 22h 30m 51s.xml">
+      <configuration name="Unittests in test_io_manager.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17386723" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.13435195" side_tool="true" visible="true" weight="0.31263617" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86564803" weight="0.31263617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49736565" weight="0.39978212" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/solution/simple_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/test/test_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/test/test_io.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/point.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/simple_calc.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/divide_and_conquer_calc.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/test_io.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/main.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/code/myclass.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/io_manager.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/test_calc.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/point.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/simple_calc.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/test_calculators.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/main.py" />
+    <entry file="file://$PROJECT_DIR$/hello.py" />
+    <entry file="file://$PROJECT_DIR$/hello.py" />
+    <entry file="file://$PROJECT_DIR$/point.pyű.py" />
+    <entry file="file://$PROJECT_DIR$/point.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/point.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/test_calculators.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/point.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/simple_calc.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/test_io.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/code/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/code/myclass.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/main.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/mypackage/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/mypackage/myclass.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/test/test_calc.py" />
+    <entry file="file://$PROJECT_DIR$/test/mytest.py" />
+    <entry file="file://$PROJECT_DIR$/top/myc.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/divide_and_conquer_calc.py" />
+    <entry file="file://$PROJECT_DIR$/source/test/test_f.py" />
+    <entry file="file://$PROJECT_DIR$/source/test/test_iomodified_name.py" />
+    <entry file="file://$PROJECT_DIR$/source/test/test_io.py" />
+    <entry file="file://$PROJECT_DIR$/venv/src/solution/io_manager.py" />
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/simple_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/test/test_io_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/test/test_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/divide_and_conquer_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="100" selection-start-line="8" selection-start-column="100" selection-end-line="8" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/solution/io_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

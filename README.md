@@ -1,5 +1,5 @@
 # ClosestPairProblem
-The repository includes a Python solution for n dimensional closest pair problem. Bruteforce method implemented.
+The repository includes a Python solution for n dimensional closest pair problem. Bruteforce method is implemented.
 
 # Exercise
 Your task is to create a Java/Python program which reads a text file where each line contains the coordinates of a multidimensional point, and then looks for the closest pair of points in the file. If the program has found the closest pair of points, it should output the line numbers and the coordinates of the two closest points.
@@ -18,6 +18,9 @@ Divide and conquer method approach in n dimension is not trivial. Implementation
 1) Solution code: */source/solution*
 2) Unit test code: */source/test*
 3) Sample files: */venv/resources* (directory I/O based operations)
+
+# Getting started
+Run */source/solution/main.py*. In the main function the selected file is read, calculation is perofmed and the result is printed to the standard output and into file under */venv/resources/calculation_output.txt*.
 
 # Development details
 The project was made in Python 2.7 using PyCharm Community Edition IDE. Virtualenv created. No extra package is needed, only standard library used.
